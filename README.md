@@ -212,7 +212,7 @@
 
 ### 📌 메인 페이지 / 로그인
 
-![메인페이지_로그인]([/uploads/d43f419a62a9dd9474706ace60e8b8f2/메인페이지_로그인.gif](https://github.com/ParkSeYun98/HowDoILook/assets/81186461/5c58dc4e-102c-4fa1-b4d2-aab85d50cad8))
+[](https://github.com/ParkSeYun98/HowDoILook/assets/81186461/5c58dc4e-102c-4fa1-b4d2-aab85d50cad8)
 
 - 저희 서비스의 핵심 기능들을 소개하는 메인 페이지입니다.
 
