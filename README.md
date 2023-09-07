@@ -49,14 +49,14 @@
 ## 🧑‍🤝‍🧑 멤버구성
 <table style="text-align: center;">
   <tr>
-    <th>신산하</th>
-    <th>박세윤</th>
-    <th>손정민</th>
+    <th width="400px">신산하</th>
+    <th width="400px">박세윤</th>
+    <th width="400px">손정민</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/SahhaShin"><img src="https://avatars.githubusercontent.com/u/33896511?v=4" alt="신산하 사진"></a></td>
-    <td><a href="https://github.com/ParkSeYun98"><img src="https://avatars.githubusercontent.com/u/81186461?v=4" alt="박세윤 사진"></a></td>
-    <td><a href="https://github.com/jungmin0049"><img src="https://avatars.githubusercontent.com/u/74610027?v=4" alt="손정민 사진"></a></td>
+    <td><a href="https://github.com/SahhaShin"><img src="https://avatars.githubusercontent.com/u/33896511?v=4" alt="신산하 사진" height="300px" width="400px"></a></td>
+    <td><a href="https://github.com/ParkSeYun98"><img src="https://avatars.githubusercontent.com/u/81186461?v=4" alt="박세윤 사진" height="300px" width="400px"></a></td>
+    <td><a href="https://github.com/jungmin0049"><img src="https://avatars.githubusercontent.com/u/74610027?v=4" alt="손정민 사진" height="300px" width="400px"></a></td>
   </tr>
   <tr>
     <td>Team Leader / Front</td>
@@ -89,14 +89,14 @@
 
 <table style="text-align: center;">
   <tr>
-    <th>김은서</th>
-    <th>유태영</th>
-    <th>정형준</th>
+    <th width="400px">김은서</th>
+    <th width="400px">유태영</th>
+    <th width="400px">정형준</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/EunSeo119"><img src="https://avatars.githubusercontent.com/u/64001133?v=4" alt="김은서 사진"></a></td>
-    <td><a href="https://github.com/taeyeongryu"><img src="https://avatars.githubusercontent.com/u/122500557?v=4" alt="유태영 사진"></a></td>
-    <td><a href="https://github.com/Brojjun"><img src="https://avatars.githubusercontent.com/u/122707977?v=4" alt="정형준 사진"></a></td>
+    <td><a href="https://github.com/EunSeo119"><img src="https://avatars.githubusercontent.com/u/64001133?v=4" alt="김은서 사진" height="300px" width="400px"></a></td>
+    <td><a href="https://github.com/taeyeongryu"><img src="https://avatars.githubusercontent.com/u/122500557?v=4" alt="유태영 사진" height="300px" width="400px"></a></td>
+    <td><a href="https://github.com/Brojjun"><img src="https://avatars.githubusercontent.com/u/122707977?v=4" alt="정형준 사진" height="300px" width="400px"></a></td>
   </tr>
   <tr>
     <td>Back</td>
