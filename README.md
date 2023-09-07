@@ -59,18 +59,18 @@
     <td><a href="https://github.com/jungmin0049"><img src="https://avatars.githubusercontent.com/u/74610027?v=4" alt="손정민 사진" height="300px" width="400px"></a></td>
   </tr>
   <tr>
-    <td>Team Leader / Front</td>
-    <td>Back / Infra / Front</td>
-    <td>Front</td>
+    <td width="400px" align="center">Team Leader / Front</td>
+    <td width="400px" align="center">Back / Infra / Front</td>
+    <td width="400px" align="center">Front</td>
   </tr>
   <tr>
-    <td>
+    <td width="400px">
     - 프로토타입 제작 및 디자인 (Figma)<br>
     - 컴포넌트 구성 및 API 기능 적용 (Live/Feed/Mypage/옷장/채팅/랭킹)<br>
     - 웹 소켓 통신을 이용한 채팅(1:1 / M:N) / 방입장 / 방퇴장 / 블랙리스트 구현<br>
     - 기상청 API를 활용한 OOTD 서비스 제작<br>
     </td>
-    <td>
+    <td width="400px">
     - (Infra) Docker를 활용한 프로젝트 수동 배포<br>
     - (Back) Spring Security를 활용한 인증 / 인가 (JWT 토큰 방식)<br>
     - (Back) Redis를 활용한 실시간 Ranking 서비스<br>
@@ -79,7 +79,7 @@
     - (Front) 마이페이지, 랭킹 페이지 구현<br>
     - (Front) 팔로우 기반 서비스 구현<br>
     </td>
-    <td>
+    <td width="400px">
     - 오픈비두 Api를 활용한 화상회의 컴포넌트 구현(카메라, 오디오 설정 포함)<br>
     - 페이지네이션 구현, 검색 구현(동기화를 이용한 실시간 목록 갱신 방식)<br>
     - 로그인 컴포넌트 및 API 적용<br>
@@ -99,17 +99,17 @@
     <td><a href="https://github.com/Brojjun"><img src="https://avatars.githubusercontent.com/u/122707977?v=4" alt="정형준 사진" height="300px" width="400px"></a></td>
   </tr>
   <tr>
-    <td>Back</td>
-    <td>Back</td>
-    <td>Back</td>
+    <td width="400px" align="center">Back</td>
+    <td width="400px" align="center">Back</td>
+    <td width="400px" align="center">Back</td>
   </tr>
   <tr>
-    <td>- 옷장, 스트리밍, 이미지 관련 API<br>
+    <td width="400px">- 옷장, 스트리밍, 이미지 관련 API<br>
         - 이미지 배경제거<br>
         - 프론트 메인페이지</td>
-    <td>- 피드, 댓글, 블랙리스트, 팔로우 API<br>
+    <td width="400px">- 피드, 댓글, 블랙리스트, 팔로우 API<br>
         - UCC 총 감독, 주연배우</td>
-    <td>- 웹 소켓 프로토콜 관련 기능<br>
+    <td width="400px">- 웹 소켓 프로토콜 관련 기능<br>
         - 채팅 API<br>
         - 발표</td>
   </tr>
